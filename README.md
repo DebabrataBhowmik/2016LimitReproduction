@@ -11,7 +11,8 @@ check the path inside myrunAddWeightsAll_sig.sh and run
 
 ./myrunSkimAll.sh
 
-Then go to ../../fits/Test_producedNtuplesFrom2016MicroAOD i.e.(analysis/fits/Test_producedNtuplesFrom2016MicroAOD) and run
+Then go to ../../fits/Test_producedNtuplesFrom2016MicroAOD i.e.(analysis/fits/Test_producedNtuplesFrom2016MicroAOD) 
+and run
 
 ./myformatNtupleForFitting_METcat.sh 50 130
 
